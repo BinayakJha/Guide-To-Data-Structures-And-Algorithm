@@ -4,6 +4,6 @@ This repository contains all the data structures and algorithms that I have lear
 
 ## Table of Contents
 
-- [Big O]('https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/1-BigO.md')
+- [Big O](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/1-BigO.md)
 
 Others will be added soon.
