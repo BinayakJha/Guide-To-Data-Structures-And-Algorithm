@@ -410,8 +410,6 @@ You can see in the graph that the time complexity of the algorithm increases as 
 
 2) **Dropping the Non Dominants:** Drop the non dominants in the time complexity. For example, O(n + n^2) is the same as O(n^2).
 
-3) **Dropping the Less Significant Terms:** Drop the less significant terms in the time complexity. For example, O(n^2 + n) is the same as O(n^2).
-
 For example, the time complexity of the following algorithm is O(n^2):
 
 ```C
