@@ -8,17 +8,16 @@ If the search ends with the remaining half being empty, the target is not in the
 
 The **time complexity** of this algorithm is **O(log n)**.
 
+## Image of Binary Search Searching an Array for 90:
+
+<img src="https://jorgechavez.dev/wp-content/uploads/2020/08/animation-1.gif" width="100%" alt="Image from jorge chavez">
+
 ## Example:
 
 ```
 A = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 x = 5
 ```
-
-## Image of Binary Search Searching an Array for 90:
-
-<img src="https://jorgechavez.dev/wp-content/uploads/2020/08/animation-1.gif" width="100%" alt="Image from jorge chavez">
-
 
 ### Solving the above example:
 
