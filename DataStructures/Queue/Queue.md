@@ -10,7 +10,7 @@ A good example of a queue is any queue of consumers for a resource where the con
 
 ## Image of Queue:
 
-<img src="https://miro.medium.com/v2/resize:fit:1280/0*E33E-AjyAUTFjVmM.gif" style="width:100%" alt="miro.medium.com">
+<img src="https://miro.medium.com/v2/resize:fit:1280/0*E33E-AjyAUTFjVmM.gif" width="100%" style="width:100%" alt="miro.medium.com">
 
 ## Algorithm:
 
