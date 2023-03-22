@@ -6,7 +6,7 @@ Linear search is a very simple search algorithm. In this type of search, a seque
 
 ## Image of Linear Search Searching an Array:
 
-<img src="https://4.bp.blogspot.com/-Oe596xjTKlM/W5DgdquPiZI/AAAAAAAADlk/dGruMjP_JLI-gdXo2DRxVJeYbvirr8ZOACLcBGAs/s1600/linear_search.gif" style="width:100%" alt="Image from bp.blogspot.com">
+<img src="https://4.bp.blogspot.com/-Oe596xjTKlM/W5DgdquPiZI/AAAAAAAADlk/dGruMjP_JLI-gdXo2DRxVJeYbvirr8ZOACLcBGAs/s1600/linear_search.gif"  width="100%"  style="width:100%" alt="Image from bp.blogspot.com">
 
 ## Algorithm:
 
