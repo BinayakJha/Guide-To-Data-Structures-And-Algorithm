@@ -6,7 +6,7 @@ This algorithm is not suitable for large data sets as its average and worst case
 
 ## Image of Bubble Sort Sorting an Array:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" style="width:100%" alt="Image from Wikipedia">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif" width="100%" style="width:100%" alt="Image from Wikipedia">
 
 
 ## Algorithm:
