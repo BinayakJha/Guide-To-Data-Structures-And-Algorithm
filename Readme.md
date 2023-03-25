@@ -21,4 +21,12 @@ Others will be added soon.
 2) [Stack](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/DataStructures/Stack/Stack.md)
 3) Comming Soon
 
+### Interview Questions
+
+1) [Crystal Ball](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/crystalBall)
+2) [ Matrix](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/Matrix)
+3) [Product Array](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/ProductArray)
+4) [Valid Sudoku](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/ValidSudokuBoard)
+5) [Max Profit Finder](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/MaxProfit)
+
 Others will be added soon.
