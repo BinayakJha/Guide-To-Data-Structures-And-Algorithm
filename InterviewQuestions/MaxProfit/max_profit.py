@@ -8,8 +8,11 @@ def get_max_profit(total_versions):
         profit = []
         i = 0
         for i in range(size):
+           
             for j in range(1, size):
+                print("i: " + str(i))
                 if i < j and min(total_versions) == total_versions[i] :
+                    print(f"{total_versions[j]} - {min(total_versions)} = {total_versions[j] - min(total_versions)}")
                     p =  total_versions[j] -  min(total_versions) 
                     profit.append(p)
         if len(profit) == 0:

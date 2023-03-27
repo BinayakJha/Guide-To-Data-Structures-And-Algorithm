@@ -28,5 +28,12 @@ Others will be added soon.
 3) [Product Array](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/ProductArray)
 4) [Valid Sudoku](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/ValidSudokuBoard)
 5) [Max Profit Finder](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/MaxProfit)
+6) [Catch The Hacker](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/CatchTheHacker)
+7) [Target Two Sum](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/TargetTwoSum)
 
 Others will be added soon.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate. 
