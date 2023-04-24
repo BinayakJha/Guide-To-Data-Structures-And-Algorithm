@@ -17,12 +17,10 @@ void BubbleSort(int arr[], int n ){
     for(i=0;i<n;i++){
         printf("%d ",arr[i]);
     }
-
 }
 
 int main(){
     int arr[] = {10,2,6,3,2,5,4,7,9,8};
     int n = sizeof(arr)/sizeof(arr[0]);
     BubbleSort(arr,n);
-
 }
