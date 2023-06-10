@@ -30,6 +30,7 @@ Others will be added soon.
 5) [Max Profit Finder](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/MaxProfit)
 6) [Catch The Hacker](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/CatchTheHacker)
 7) [Target Two Sum](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/TargetTwoSum)
+8) [DiameterOfBinaryTree](https://github.com/BinayakJha/Guide-To-Data-Structures-And-Algorithm/blob/main/InterviewQuestions/DiameterOfBinaryTree)
 
 Others will be added soon.
 
